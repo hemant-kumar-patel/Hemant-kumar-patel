@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hemant Patel  
-- 👀 I’m interested in Artificial Intelligence and web development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Web development and AI
+- 👀 I’m interested in Java Full Stack Development.
+- 🌱 I’m currently learning Java Backend.
+- 💞️ I’m looking to collaborate on Java Backend development.
 - 📫 How to reach me ...
 hemant959singh@gmail.com
 <!---
